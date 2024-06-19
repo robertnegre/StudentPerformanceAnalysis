@@ -1,1 +1,4 @@
-# StudentPerformanceAnalysis
+# Student Performance Analysis
+
+
+Me and my colleague collaborated on a comprehensive Data Mining project aimed at predicting final year grades in Mathematics and Portuguese for secondary education students using a dataset of 30 features from two Portuguese schools. The project involved managing data preprocessing tasks, conducting extensive exploratory data analysis (EDA) to identify patterns and correlations and applying feature selection techniques. Various Machine Learning Algorithms, including Decision Trees, Random Forests, Support Vector Machines and Linear Regression were implemented and evaluated using metrics such as accuracy, precision, recall, F1-score and RMSE. Hyperparameter tuning and cross-validation were performed to optimize model performance. The insights generated provided actionable information on key determinants of student success, demonstrating good skills in the full lifecycle of data mining and predictive analytics.
